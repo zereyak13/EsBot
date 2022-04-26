@@ -1,0 +1,10 @@
+UPDATES
+1)İleri tarih kısmına bir süre ekleyerek(dakika cinsinden) gecikmeli başlatabilirsiniz.
+2)Dolu boş kısmı eklendi.
+Örneğin:
+-Dolu 2 Boş 4 yapılırsa.
+Bekleme süresi tamamlanınca 2 tur vurup 4 tur vurmayacak.
+
+------------------------------------
+FIXED
+-Saat 24:00 sonrası sayaçta bug vardı fixlendi. 

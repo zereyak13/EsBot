@@ -1,0 +1,11 @@
+D:\Uygulamalarım\Visual Studio\DropEstimeter\DropEstimeter\bin\Debug\DropEstimeter.exe.config
+D:\Uygulamalarım\Visual Studio\DropEstimeter\DropEstimeter\bin\Debug\DropEstimeter.exe
+D:\Uygulamalarım\Visual Studio\DropEstimeter\DropEstimeter\bin\Debug\DropEstimeter.pdb
+D:\Uygulamalarım\Visual Studio\DropEstimeter\DropEstimeter\obj\Debug\DropEstimeter.csprojAssemblyReference.cache
+D:\Uygulamalarım\Visual Studio\DropEstimeter\DropEstimeter\obj\Debug\DropEstimeter.Form1.resources
+D:\Uygulamalarım\Visual Studio\DropEstimeter\DropEstimeter\obj\Debug\DropEstimeter.Properties.Resources.resources
+D:\Uygulamalarım\Visual Studio\DropEstimeter\DropEstimeter\obj\Debug\DropEstimeter.csproj.GenerateResource.cache
+D:\Uygulamalarım\Visual Studio\DropEstimeter\DropEstimeter\obj\Debug\DropEstimeter.csproj.CoreCompileInputs.cache
+D:\Uygulamalarım\Visual Studio\DropEstimeter\DropEstimeter\obj\Debug\DropEstimeter.exe
+D:\Uygulamalarım\Visual Studio\DropEstimeter\DropEstimeter\obj\Debug\DropEstimeter.pdb
+D:\Uygulamalarım\Visual Studio\DropEstimeter\DropEstimeter\obj\Debug\DropEstimeter.Form2.resources
